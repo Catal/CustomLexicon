@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0"
+    xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    alphabet="ipa" xml:lang="en-US">
+  <lexeme>
+    <grapheme>conduct</grapheme>
+    <phoneme>kənˈdʌkt</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>hysteria</grapheme>
+    <phoneme>hɪsˈteriə</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>converts</grapheme>
+    <phoneme>kənˈvəːts</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>exploit</grapheme>
+    <phoneme>ɪkspˈlɔɪt</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>ユース</grapheme>
+    <phoneme>juːs</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>economically</grapheme>
+    <phoneme>e.k.əˈnɑː.mɪ.kəl.i</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>👶</grapheme>
+    <alias>test baby</alias>
+  </lexeme>
+</lexicon>
