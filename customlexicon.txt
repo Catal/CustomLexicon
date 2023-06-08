@@ -21,7 +21,7 @@
   </lexeme>
   <lexeme>
     <grapheme>ユース</grapheme>
-    <phoneme>jjj</phoneme>
+    <phoneme>jjjj</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>economically</grapheme>
