@@ -37,6 +37,34 @@
   </lexeme>
   <lexeme>
     <grapheme>cause</grapheme>
-    <alias>kɑːz</alias>
+    <phoneme>kɑːz</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>offense</grapheme>
+    <phoneme>/əˈfens/</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>content</grapheme>
+    <phoneme>/kənˈtent/</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>coordinate</grapheme>
+    <phoneme>/koʊˈɔːr.dən.ət/</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>adept</grapheme>
+    <phoneme>/əˈdept/</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>produce</grapheme>
+    <phoneme>/prəˈduːs/</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>estimate</grapheme>
+    <phoneme>/ˈes.tə.meɪt/</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>surveyed</grapheme>
+    <phoneme>súrveyed</phoneme>
   </lexeme>
 </lexicon>
